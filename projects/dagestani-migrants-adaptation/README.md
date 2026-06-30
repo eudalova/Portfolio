@@ -65,7 +65,7 @@
 
 ## Что можно посмотреть
 
-📄 **[Полный текст курсовой работы](./projects/dagestani-migrants-adaptation/term_paper.pdf)**
+📄 **[Полный текст курсовой работы](/projects/ai-mental-health-bibliometrics/term_paper.pdf)**
 
 В работе содержатся:
 
